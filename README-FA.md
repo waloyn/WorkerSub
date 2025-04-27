@@ -59,6 +59,8 @@ https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressescsv.csv
 
 یه [آموزش ویدیویی](https://youtu.be/AtCF7eq0hcE) هم واسه این گذاشتم. ولی اگه ترجیح میدی بخونی، اینم توضیحاتش:
 
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/waloyn/WorkerSub)
+
 ### 1. بذاریمش رو Cloudflare Worker:
 
    - برو تو داشبورد Cloudflare Worker و یه Worker جدید بساز.
