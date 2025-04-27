@@ -65,8 +65,9 @@
 
 <details>
 <summary><code><strong>「 Workers 部署方法 」</strong></code></summary>
-	
-[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/waloyn/WorkerVless2sub)
+
+ 
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/waloyn/WorkerSub)
 
 1. 部署 Cloudflare Worker：
 
